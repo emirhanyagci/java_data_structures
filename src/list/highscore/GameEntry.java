@@ -1,4 +1,4 @@
-package linked_list.highscore;
+package list.highscore;
 
 public class GameEntry {
     private String name;
