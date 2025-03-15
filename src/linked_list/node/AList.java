@@ -1,4 +1,7 @@
 package linked_list.node;
+
+import linked_list.Node;
+
 // this is doubly linked list
 public class AList {
     Node head = null;

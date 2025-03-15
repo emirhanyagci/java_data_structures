@@ -1,4 +1,7 @@
 package linked_list.node;
+
+import linked_list.Node;
+
 // this is single linked list
 public class BList {
     Node head = null;
